@@ -1,0 +1,1 @@
+These are a couple of mini-projects I did to improve my mastery of the Python Language
