@@ -7,7 +7,7 @@ print("The Love Calculator is calculating your score...")
 name1 = input("What is your name? ")
 name2 = input("What is their name? ")
 
-# I combined the names so I can work with just one variable and not two (name1 and name2)
+# I combined both names so I can work with just one variable and not two (name1 and name2)
 combined_names = name1 + name2
 
 # Converting to lowercase for uniformity
