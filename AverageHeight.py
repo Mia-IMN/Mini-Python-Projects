@@ -3,7 +3,7 @@
 
 # Getting an input of a list of student heights
 # I had to split the input and make a python list out of it
-student_heights = input().split()
+student_heights = input("Input student heights in a line separated by just a space: ").split()
 for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])
 
